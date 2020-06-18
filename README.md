@@ -38,8 +38,7 @@ Extracted data into four "comma seperated files" (.csv) files:
 - Creating .gif file using the images created
 
 ### Author Info:
-#### Muhammad Raza Khalid Saleemi 
-(https://www.linkedin.com/in/muhammad-raza-khalid-saleemi/)
+#### [Muhammad Raza Khalid Saleemi](https://www.linkedin.com/in/muhammad-raza-khalid-saleemi/)
 
 ### Acknowledgments:
-- Dice Analytics (https://diceanalytics.pk/)
+- [Dice Analytics](https://diceanalytics.pk/)
